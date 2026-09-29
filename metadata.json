@@ -1,0 +1,8 @@
+{
+  "name": "CityFix — Citizen Issue Reporting & Resolution Portal",
+  "description": "Centralized smart governance platform for citizens to report civic issues, track complaint lifecycles in real-time, and empower municipal authorities with dispatch and resolution analytics.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
